@@ -1,1 +1,1 @@
-shell basics
+hell_variables_expansions
